@@ -22,8 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
-#ifndef bitboard_H
-#define bitboard_H
+#ifndef BITBOARD_H
+#define BITBOARD_H
 
 #include "../definitions.h"
 
